@@ -1,0 +1,106 @@
+﻿YEAR,COLLEGE_DESC,GENDER_DESC,NATIONALITY,STUDENT_LEVEL,TOTAL
+2018-2019,Humanities & Social Sciences,Male,National,Doctorate,3
+2018-2019,Humanities & Social Sciences,Male,National,Master,7
+2018-2019,Humanities & Social Sciences,Male,National,Undergraduate,270
+2018-2019,Humanities & Social Sciences,Male,Non-national,Doctorate,7
+2018-2019,Humanities & Social Sciences,Male,Non-national,Master,1
+2018-2019,Humanities & Social Sciences,Male,Non-national,Undergraduate,88
+2018-2019,Humanities & Social Sciences,Female,National,Doctorate,6
+2018-2019,Humanities & Social Sciences,Female,National,Master,63
+2018-2019,Humanities & Social Sciences,Female,National,Undergraduate,3171
+2018-2019,Humanities & Social Sciences,Female,Non-national,Doctorate,2
+2018-2019,Humanities & Social Sciences,Female,Non-national,Master,26
+2018-2019,Humanities & Social Sciences,Female,Non-national,Undergraduate,304
+2018-2019,Science,Male,National,Doctorate,1
+2018-2019,Science,Male,National,Master,4
+2018-2019,Science,Male,National,Undergraduate,71
+2018-2019,Science,Male,Non-national,Doctorate,6
+2018-2019,Science,Male,Non-national,Master,18
+2018-2019,Science,Male,Non-national,Undergraduate,88
+2018-2019,Science,Female,National,Doctorate,4
+2018-2019,Science,Female,National,Master,42
+2018-2019,Science,Female,National,Undergraduate,924
+2018-2019,Science,Female,Non-national,Doctorate,15
+2018-2019,Science,Female,Non-national,Master,43
+2018-2019,Science,Female,Non-national,Undergraduate,255
+2018-2019,Education,Male,National,Doctorate,2
+2018-2019,Education,Male,National,Undergraduate,3
+2018-2019,Education,Male,Non-national,Doctorate,7
+2018-2019,Education,Male,Non-national,Master,6
+2018-2019,Education,Male,Non-national,Undergraduate,2
+2018-2019,Education,Female,National,Doctorate,18
+2018-2019,Education,Female,National,Master,44
+2018-2019,Education,Female,National,Undergraduate,654
+2018-2019,Education,Female,Non-national,Doctorate,13
+2018-2019,Education,Female,Non-national,Master,28
+2018-2019,Education,Female,Non-national,Undergraduate,80
+2018-2019,Business & Economics,Male,National,Doctorate,20
+2018-2019,Business & Economics,Male,National,Master,24
+2018-2019,Business & Economics,Male,National,Undergraduate,298
+2018-2019,Business & Economics,Male,Non-national,Doctorate,7
+2018-2019,Business & Economics,Male,Non-national,Master,11
+2018-2019,Business & Economics,Male,Non-national,Undergraduate,140
+2018-2019,Business & Economics,Female,National,Doctorate,24
+2018-2019,Business & Economics,Female,National,Master,71
+2018-2019,Business & Economics,Female,National,Undergraduate,1286
+2018-2019,Business & Economics,Female,Non-national,Doctorate,5
+2018-2019,Business & Economics,Female,Non-national,Master,8
+2018-2019,Business & Economics,Female,Non-national,Undergraduate,170
+2018-2019,Law,Male,National,Master,32
+2018-2019,Law,Male,National,Undergraduate,158
+2018-2019,Law,Male,Non-national,Master,10
+2018-2019,Law,Male,Non-national,Undergraduate,37
+2018-2019,Law,Female,National,Master,35
+2018-2019,Law,Female,National,Undergraduate,608
+2018-2019,Law,Female,Non-national,Master,5
+2018-2019,Law,Female,Non-national,Undergraduate,79
+2018-2019,Food & Agriculture,Male,National,Doctorate,2
+2018-2019,Food & Agriculture,Male,National,Master,4
+2018-2019,Food & Agriculture,Male,National,Undergraduate,29
+2018-2019,Food & Agriculture,Male,Non-national,Doctorate,3
+2018-2019,Food & Agriculture,Male,Non-national,Master,2
+2018-2019,Food & Agriculture,Male,Non-national,Undergraduate,25
+2018-2019,Food & Agriculture,Female,National,Doctorate,3
+2018-2019,Food & Agriculture,Female,National,Master,17
+2018-2019,Food & Agriculture,Female,National,Undergraduate,537
+2018-2019,Food & Agriculture,Female,Non-national,Doctorate,8
+2018-2019,Food & Agriculture,Female,Non-national,Master,4
+2018-2019,Food & Agriculture,Female,Non-national,Undergraduate,104
+2018-2019,Engineering,Male,National,Doctorate,1
+2018-2019,Engineering,Male,National,Master,33
+2018-2019,Engineering,Male,National,Undergraduate,661
+2018-2019,Engineering,Male,Non-national,Doctorate,25
+2018-2019,Engineering,Male,Non-national,Master,109
+2018-2019,Engineering,Male,Non-national,Undergraduate,210
+2018-2019,Engineering,Female,National,Master,75
+2018-2019,Engineering,Female,National,Undergraduate,1640
+2018-2019,Engineering,Female,Non-national,Doctorate,24
+2018-2019,Engineering,Female,Non-national,Master,77
+2018-2019,Engineering,Female,Non-national,Undergraduate,208
+2018-2019,Medicine & Health Sciences,Male,National,Doctorate,1
+2018-2019,Medicine & Health Sciences,Male,National,Undergraduate,100
+2018-2019,Medicine & Health Sciences,Male,Non-national,Doctorate,11
+2018-2019,Medicine & Health Sciences,Male,Non-national,Master,5
+2018-2019,Medicine & Health Sciences,Male,Non-national,Professional,2
+2018-2019,Medicine & Health Sciences,Male,Non-national,Undergraduate,17
+2018-2019,Medicine & Health Sciences,Female,National,Doctorate,8
+2018-2019,Medicine & Health Sciences,Female,National,Master,10
+2018-2019,Medicine & Health Sciences,Female,National,Professional,1
+2018-2019,Medicine & Health Sciences,Female,National,Undergraduate,383
+2018-2019,Medicine & Health Sciences,Female,Non-national,Doctorate,30
+2018-2019,Medicine & Health Sciences,Female,Non-national,Master,32
+2018-2019,Medicine & Health Sciences,Female,Non-national,Professional,5
+2018-2019,Medicine & Health Sciences,Female,Non-national,Undergraduate,26
+2018-2019,Information Technology,Male,National,Doctorate,1
+2018-2019,Information Technology,Male,National,Master,4
+2018-2019,Information Technology,Male,National,Undergraduate,328
+2018-2019,Information Technology,Male,Non-national,Doctorate,2
+2018-2019,Information Technology,Male,Non-national,Master,5
+2018-2019,Information Technology,Male,Non-national,Undergraduate,59
+2018-2019,Information Technology,Female,National,Doctorate,3
+2018-2019,Information Technology,Female,National,Master,24
+2018-2019,Information Technology,Female,National,Undergraduate,807
+2018-2019,Information Technology,Female,Non-national,Doctorate,4
+2018-2019,Information Technology,Female,Non-national,Master,6
+2018-2019,Information Technology,Female,Non-national,Undergraduate,40
+,,,,,

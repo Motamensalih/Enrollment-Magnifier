@@ -1,0 +1,110 @@
+﻿YEAR,COLLEGE_DESC,GENDER_DESC,NATIONALITY,STUDENT_LEVEL,TOTAL
+2019/2020,Academic Affairs,Female,Non-nationals,Undergraduate,16
+2019/2020,Academic Affairs,Female,Non-nationals,Doctorate,1
+2019/2020,Academic Affairs,Male,Non-nationals,Undergraduate,12
+2019/2020,Business & Economics,Female,Nationals,Undergraduate,1099
+2019/2020,Business & Economics,Female,Nationals,Master,58
+2019/2020,Business & Economics,Female,Nationals,Doctorate,16
+2019/2020,Business & Economics,Female,Non-nationals,Undergraduate,124
+2019/2020,Business & Economics,Female,Non-nationals,Master,6
+2019/2020,Business & Economics,Female,Non-nationals,Doctorate,4
+2019/2020,Business & Economics,Male,Nationals,Undergraduate,292
+2019/2020,Business & Economics,Male,Nationals,Master,21
+2019/2020,Business & Economics,Male,Nationals,Doctorate,16
+2019/2020,Business & Economics,Male,Non-nationals,Undergraduate,112
+2019/2020,Business & Economics,Male,Non-nationals,Master,8
+2019/2020,Business & Economics,Male,Non-nationals,Doctorate,4
+2019/2020,Education,Female,Nationals,Undergraduate,590
+2019/2020,Education,Female,Nationals,Master,51
+2019/2020,Education,Female,Nationals,Doctorate,20
+2019/2020,Education,Female,Non-nationals,Undergraduate,62
+2019/2020,Education,Female,Non-nationals,Master,31
+2019/2020,Education,Female,Non-nationals,Doctorate,16
+2019/2020,Education,Male,Nationals,Undergraduate,6
+2019/2020,Education,Male,Nationals,Doctorate,2
+2019/2020,Education,Male,Non-nationals,Undergraduate,1
+2019/2020,Education,Male,Non-nationals,Master,4
+2019/2020,Education,Male,Non-nationals,Doctorate,7
+2019/2020,Engineering,Female,Nationals,Undergraduate,1422
+2019/2020,Engineering,Female,Nationals,Master,76
+2019/2020,Engineering,Female,Nationals,Doctorate,2
+2019/2020,Engineering,Female,Non-nationals,Undergraduate,158
+2019/2020,Engineering,Female,Non-nationals,Master,80
+2019/2020,Engineering,Female,Non-nationals,Doctorate,34
+2019/2020,Engineering,Male,Nationals,Undergraduate,623
+2019/2020,Engineering,Male,Nationals,Master,31
+2019/2020,Engineering,Male,Nationals,Doctorate,1
+2019/2020,Engineering,Male,Non-nationals,Undergraduate,205
+2019/2020,Engineering,Male,Non-nationals,Master,94
+2019/2020,Engineering,Male,Non-nationals,Doctorate,42
+2019/2020,Food & Agriculture,Female,Nationals,Undergraduate,450
+2019/2020,Food & Agriculture,Female,Nationals,Master,14
+2019/2020,Food & Agriculture,Female,Nationals,Doctorate,4
+2019/2020,Food & Agriculture,Female,Non-nationals,Undergraduate,85
+2019/2020,Food & Agriculture,Female,Non-nationals,Master,8
+2019/2020,Food & Agriculture,Female,Non-nationals,Doctorate,11
+2019/2020,Food & Agriculture,Male,Nationals,Undergraduate,32
+2019/2020,Food & Agriculture,Male,Nationals,Master,4
+2019/2020,Food & Agriculture,Male,Nationals,Doctorate,1
+2019/2020,Food & Agriculture,Male,Non-nationals,Undergraduate,19
+2019/2020,Food & Agriculture,Male,Non-nationals,Master,2
+2019/2020,Food & Agriculture,Male,Non-nationals,Doctorate,7
+2019/2020,Humanities & Social Sciences,Female,Nationals,Undergraduate,2692
+2019/2020,Humanities & Social Sciences,Female,Nationals,Master,63
+2019/2020,Humanities & Social Sciences,Female,Nationals,Doctorate,4
+2019/2020,Humanities & Social Sciences,Female,Non-nationals,Undergraduate,216
+2019/2020,Humanities & Social Sciences,Female,Non-nationals,Master,33
+2019/2020,Humanities & Social Sciences,Female,Non-nationals,Doctorate,1
+2019/2020,Humanities & Social Sciences,Male,Nationals,Undergraduate,329
+2019/2020,Humanities & Social Sciences,Male,Nationals,Master,9
+2019/2020,Humanities & Social Sciences,Male,Nationals,Doctorate,3
+2019/2020,Humanities & Social Sciences,Male,Non-nationals,Undergraduate,69
+2019/2020,Humanities & Social Sciences,Male,Non-nationals,Master,3
+2019/2020,Humanities & Social Sciences,Male,Non-nationals,Doctorate,7
+2019/2020,Information Technology,Female,Nationals,Undergraduate,646
+2019/2020,Information Technology,Female,Nationals,Master,22
+2019/2020,Information Technology,Female,Nationals,Doctorate,2
+2019/2020,Information Technology,Female,Non-nationals,Undergraduate,31
+2019/2020,Information Technology,Female,Non-nationals,Master,5
+2019/2020,Information Technology,Female,Non-nationals,Doctorate,11
+2019/2020,Information Technology,Male,Nationals,Undergraduate,397
+2019/2020,Information Technology,Male,Nationals,Master,7
+2019/2020,Information Technology,Male,Nationals,Doctorate,1
+2019/2020,Information Technology,Male,Non-nationals,Undergraduate,42
+2019/2020,Information Technology,Male,Non-nationals,Master,7
+2019/2020,Information Technology,Male,Non-nationals,Doctorate,7
+2019/2020,Law,Female,Nationals,Undergraduate,481
+2019/2020,Law,Female,Nationals,Master,33
+2019/2020,Law,Female,Nationals,Doctorate,3
+2019/2020,Law,Female,Non-nationals,Undergraduate,53
+2019/2020,Law,Female,Non-nationals,Master,4
+2019/2020,Law,Female,Non-nationals,Doctorate,1
+2019/2020,Law,Male,Nationals,Undergraduate,147
+2019/2020,Law,Male,Nationals,Master,13
+2019/2020,Law,Male,Nationals,Doctorate,6
+2019/2020,Law,Male,Non-nationals,Undergraduate,34
+2019/2020,Law,Male,Non-nationals,Master,6
+2019/2020,Medicine & Health Sciences,Female,Nationals,Undergraduate,377
+2019/2020,Medicine & Health Sciences,Female,Nationals,Master,13
+2019/2020,Medicine & Health Sciences,Female,Nationals,Doctorate,12
+2019/2020,Medicine & Health Sciences,Female,Non-nationals,Undergraduate,23
+2019/2020,Medicine & Health Sciences,Female,Non-nationals,Master,31
+2019/2020,Medicine & Health Sciences,Female,Non-nationals,Doctorate,34
+2019/2020,Medicine & Health Sciences,Male,Nationals,Undergraduate,109
+2019/2020,Medicine & Health Sciences,Male,Nationals,Master,1
+2019/2020,Medicine & Health Sciences,Male,Nationals,Doctorate,1
+2019/2020,Medicine & Health Sciences,Male,Non-nationals,Undergraduate,15
+2019/2020,Medicine & Health Sciences,Male,Non-nationals,Master,5
+2019/2020,Medicine & Health Sciences,Male,Non-nationals,Doctorate,14
+2019/2020,Science,Female,Nationals,Undergraduate,1073
+2019/2020,Science,Female,Nationals,Master,32
+2019/2020,Science,Female,Nationals,Doctorate,5
+2019/2020,Science,Female,Non-nationals,Undergraduate,255
+2019/2020,Science,Female,Non-nationals,Master,46
+2019/2020,Science,Female,Non-nationals,Doctorate,21
+2019/2020,Science,Male,Nationals,Undergraduate,138
+2019/2020,Science,Male,Nationals,Master,2
+2019/2020,Science,Male,Nationals,Doctorate,1
+2019/2020,Science,Male,Non-nationals,Undergraduate,94
+2019/2020,Science,Male,Non-nationals,Master,20
+2019/2020,Science,Male,Non-nationals,Doctorate,11
